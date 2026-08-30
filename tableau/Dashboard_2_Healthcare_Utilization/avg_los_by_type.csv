@@ -1,0 +1,11 @@
+encounter_class,avg_length_of_stay
+snf,23.63
+hospice,21.64
+inpatient,4.12
+emergency,0.21
+wellness,0.02
+outpatient,0.01
+urgentcare,0.0
+ambulatory,0.0
+virtual,0.0
+home,0.0
