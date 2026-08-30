@@ -2,13 +2,6 @@
 
 An end-to-end healthcare analytics project demonstrating the complete analytics lifecycle from synthetic healthcare data generation to business intelligence reporting using Synthea, Google BigQuery, SQL, Python, and Tableau.
 
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=or=white)
-![SQL](https://img.shields.io/badge/SQL-style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=oColor=white)
-![Pandas](https://img.shields.io/badge0458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.ioeau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Synthea](https://img.shields.io/badge/Synthea-00897B?style=for-the)
-
 ## Project Highlights
 
 - Generated synthetic healthcare data using Synthea and Java
