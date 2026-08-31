@@ -15,8 +15,6 @@ An end-to-end healthcare analytics project demonstrating the complete analytics 
 
 ## Table of Contents
 
-## Table of Contents
-
 - #project-overview
 - #business-objectives
 - #project-architecture
@@ -113,6 +111,19 @@ Business Insights
 The dataset was generated using the open-source healthcare simulation platform Synthea.
 
 Synthea creates realistic synthetic patient records, including demographics, encounters, conditions, medications, procedures, providers, and organizations.
+
+Source:
+https://github.com/synthetichealth/synthea
+
+### Data Privacy Notice
+
+This project uses fully synthetic healthcare data generated with Synthea.
+
+The dataset does not contain real patient information and was created solely for educational and analytical purposes.
+
+No personally identifiable information (PII), protected health information (PHI), or confidential medical records are included in this project.
+
+As a result, the analysis can be performed without privacy, confidentiality, or regulatory concerns associated with real healthcare data.
 
 ### Dataset Generation
 
