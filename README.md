@@ -13,23 +13,43 @@ An end-to-end healthcare analytics project demonstrating the complete analytics 
 - Created 4 interactive Tableau dashboards
 - Produced technical documentation and presentation materials
 
+## Dashboard Preview
+
+The project includes four interactive Tableau dashboards covering population demographics, healthcare utilization, clinical activity, and patient outcomes.
+
+### Dashboard 1
+
+![Dashboard 1 — Population Overview](images/dashboard_1_population_overview.png)
+
+### Dashboard 2
+
+![Dashboard 2 — Healthcare Utilization](images/dashboard_2_healthcare_utilization.png)
+
+### Dashboard 3
+
+![Dashboard 3 — Clinical Analysis](images/dashboard_3_clinical_analysis.png)
+
+### Dashboard 4
+
+![Dashboard 4 — Patient Outcomes](images/dashboard_4_patient_outcomes.png)
+
 ## Table of Contents
 
-- #project-overview
-- #business-objectives
-- #project-architecture
-- #dataset
-- #technology-stack
-- #data-quality-assessment
-- #sql-analytics
-- #python-exploratory-data-analysis
-- #kpi-framework
-- #tableau-dashboard-suite
-- #key-insights
-- #business-recommendations
-- #repository-structure
-- #skills-demonstrated
-- #contact
+1. [Project Overview](#project-overview)
+2. [Business Objectives](#business-objectives)
+3. [Project Architecture](#project-architecture)
+4. [Dataset](#dataset)
+5. [Technology Stack](#technology-stack)
+6. [Data Quality Assessment](#data-quality-assessment)
+7. [SQL Analytics](#sql-analytics)
+8. [Python Exploratory Data Analysis](#python-exploratory-data-analysis)
+9. [KPI Framework](#kpi-framework)
+10. [Tableau Dashboard Suite](#tableau-dashboard-suite)
+11. [Key Insights](#key-insights)
+12. [Business Recommendations](#business-recommendations)
+13. [Repository Structure](#repository-structure)
+14. [Skills Demonstrated](#skills-demonstrated)
+15. [Contact](#contact)
 
 ## Project Overview
 
